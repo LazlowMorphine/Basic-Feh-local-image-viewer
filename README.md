@@ -5,3 +5,6 @@ Script for running random photos on a HDMI display for a Raspberry Pi.
 2. Put script in home/pi/
 3. Copy photos to home/pi/Pictures
 4. Run script from ssh (sudo nano start-picture-frame.sh)
+
+**NOTE** 
+Raspberry pi must be in GUI to run script correctly.
